@@ -1,4 +1,4 @@
-# UINIO-Display 显示屏模组
+# UINIO-Monitor 显示屏模组
 
 ![](./Images/PCB-3D-1.png)
 
