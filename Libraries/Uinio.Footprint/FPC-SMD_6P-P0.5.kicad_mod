@@ -82,8 +82,8 @@
   (pad "7" smd rect (at -3.25 1.541) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6cebced4-037a-470a-8338-89417efafc92))
   (pad "8" smd rect (at 3.25 1.541) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31b51f91-9cc7-4181-8672-c8beea4e7fb3))
   (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_6P-P0.5.stp"
-    (offset (xyz 9 2.5 0))
+    (offset (xyz 0 -1 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -180))
+    (rotate (xyz -180 -180 -180))
   )
 )

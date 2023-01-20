@@ -122,8 +122,8 @@
   (pad "12" smd rect (at 2.75 -1.288) (size 0.3 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 26b426a4-1aba-4635-96c9-baca78fce353))
   (pad "13" smd rect (at 4.44 1.288) (size 2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9c473d48-8e79-4c17-89d6-333c3a807e2c))
   (pad "14" smd rect (at -4.44 1.288) (size 2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4a052ced-6e3b-40fb-83e5-0558f6641acb))
-  (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_12P-P0.5.wrl"
-    (offset (xyz 0 1 0))
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_12P-P0.5.stp"
+    (offset (xyz 0 -1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
