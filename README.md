@@ -1,4 +1,4 @@
-# UINIO-Monitor SPI & I²C 总线显示屏模组
+# UINIO-Monitor 一款 SPI & I²C 显示屏模组
 
 ![](./Images/PCB-3D-1.png)
 
