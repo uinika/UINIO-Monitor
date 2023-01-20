@@ -1,4 +1,4 @@
-(footprint "FPC-SMD_12P-P1.00_XUNPU_FPC-1.0FX-12PWBH20" (version 20211014) (generator pcbnew)
+(footprint "FPC-SMD_12P-P1.0" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62DE51D2)
   (attr through_hole)
@@ -38,7 +38,7 @@
   (pad "12" smd rect (at 5.5 -1.175) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 63f8a8b5-4ba1-47ec-92d8-3f878055b30f))
   (pad "13" smd rect (at 7.7 1.175) (size 2 3.05) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1902f647-317e-470f-b166-ef0d6d717541))
   (pad "14" smd rect (at -7.7 1.175) (size 2 3.05) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7c0b189e-00da-433c-9351-152de963507c))
-  (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_12P-P1.00_XUNPU_FPC-1.0FX-12PWBH20.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_12P-P1.0.wrl"
     (offset (xyz 0 -1.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

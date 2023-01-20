@@ -1,4 +1,4 @@
-(footprint "FPC-SMD_8P-P0.5_C9900011879" (version 20211014) (generator pcbnew)
+(footprint "FPC-SMD_8P-P0.5" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62E3961F)
   (attr through_hole)
@@ -94,7 +94,7 @@
   (pad "8" smd rect (at 1.75 -1.3) (size 0.3 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4581ef9c-f7ea-4361-9a4f-acd6fd0f98f1))
   (pad "9" smd rect (at 3.45 1.3) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac78080f-9d16-42e5-bc3f-a09098ebb6e8))
   (pad "10" smd rect (at -3.45 1.3) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 99032a2a-3f89-4074-8343-01744f3437b2))
-  (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_8P-P0.5_C9900011879.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/FPC-SMD_8P-P0.5.wrl"
     (offset (xyz 0 -1.5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

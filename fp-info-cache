@@ -1,4 +1,4 @@
-20874968639500124
+20876658183332674
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86366,33 +86366,40 @@ FPC-SMD_4P-P0.5
 6
 6
 Uinio
-FPC-SMD_8P-P0.5_C9900011879
+FPC-SMD_6P-P0.5
+
+
+0
+8
+8
+Uinio
+FPC-SMD_8P-P0.5
 
 
 0
 10
 10
 Uinio
-FPC-SMD_12P-P0.50_FPC-05F-12PH20
+FPC-SMD_10P-P0.5
+
+
+0
+12
+12
+Uinio
+FPC-SMD_12P-P0.5
 
 
 0
 14
 14
 Uinio
-FPC-SMD_12P-P1.00_XUNPU_FPC-1.0FX-12PWBH20
+FPC-SMD_12P-P1.0
 
 
 0
 14
 14
-Uinio
-FPC-SMD_KH-FG0.5-H2.0-10Pin
-
-
-0
-12
-12
 Uinio
 G+D-big
 
