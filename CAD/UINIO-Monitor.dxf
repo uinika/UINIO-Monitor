@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A54
+A6C
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A55
+A6D
 330
-A54
+A6C
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A56
+A6E
 330
-A54
+A6C
 100
 AcDbSymbolTableRecord
 100
@@ -273,9 +273,9 @@ CONTINUOUS
   0
 LAYER
   5
-A57
+A6F
 330
-A54
+A6C
 100
 AcDbSymbolTableRecord
 100
@@ -1207,7 +1207,7 @@ AcDbCircle
 100
 AcDbArc
  50
-0
+-6.78518e-14
  51
 90
   0
@@ -1473,19 +1473,611 @@ AcDbLine
  10
 -33.13
  20
--19.36
+-17.86
  30
 0
  11
 -33.13
  21
-12.36
+-19.36
  31
 0
   0
 LINE
   5
 A28
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-38.13
+ 20
+-17.86
+ 30
+0
+ 11
+-33.13
+ 21
+-17.86
+ 31
+0
+  0
+LINE
+  5
+A29
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-38.13
+ 20
+-32.36
+ 30
+0
+ 11
+-38.13
+ 21
+-17.86
+ 31
+0
+  0
+ARC
+  5
+A2A
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-39.13
+ 20
+-32.36
+ 30
+0
+ 40
+1
+100
+AcDbArc
+ 50
+-90
+ 51
+0
+  0
+LINE
+  5
+A2B
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-39.13
+ 20
+-33.36
+ 30
+0
+ 11
+-42.13
+ 21
+-33.36
+ 31
+0
+  0
+LINE
+  5
+A2C
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-42.13
+ 20
+-33.36
+ 30
+0
+ 11
+-42.13
+ 21
+-36.36
+ 31
+0
+  0
+LINE
+  5
+A2D
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-42.13
+ 20
+-36.36
+ 30
+0
+ 11
+-39.13
+ 21
+-36.36
+ 31
+0
+  0
+ARC
+  5
+A2E
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-39.13
+ 20
+-37.36
+ 30
+0
+ 40
+1
+100
+AcDbArc
+ 50
+-4.07111e-13
+ 51
+90
+  0
+LINE
+  5
+A2F
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-38.13
+ 20
+-37.36
+ 30
+0
+ 11
+-38.13
+ 21
+-45.86
+ 31
+0
+  0
+ARC
+  5
+A30
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-39.13
+ 20
+-45.86
+ 30
+0
+ 40
+1
+100
+AcDbArc
+ 50
+-90
+ 51
+0
+  0
+LINE
+  5
+A31
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-39.13
+ 20
+-46.86
+ 30
+0
+ 11
+-50.13
+ 21
+-46.86
+ 31
+0
+  0
+ARC
+  5
+A32
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-50.13
+ 20
+-43.86
+ 30
+0
+ 40
+3
+100
+AcDbArc
+ 50
+180
+ 51
+-90
+  0
+LINE
+  5
+A33
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-53.13
+ 20
+-43.86
+ 30
+0
+ 11
+-53.13
+ 21
+-39.36
+ 31
+0
+  0
+ARC
+  5
+A34
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-50.13
+ 20
+-39.36
+ 30
+0
+ 40
+3
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+LINE
+  5
+A35
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-50.13
+ 20
+-36.36
+ 30
+0
+ 11
+-47.13
+ 21
+-36.36
+ 31
+0
+  0
+LINE
+  5
+A36
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-47.13
+ 20
+-36.36
+ 30
+0
+ 11
+-47.13
+ 21
+-33.36
+ 31
+0
+  0
+LINE
+  5
+A37
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-47.13
+ 20
+-33.36
+ 30
+0
+ 11
+-50.13
+ 21
+-33.36
+ 31
+0
+  0
+ARC
+  5
+A38
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-50.13
+ 20
+-30.36
+ 30
+0
+ 40
+3
+100
+AcDbArc
+ 50
+180
+ 51
+-90
+  0
+LINE
+  5
+A39
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-53.13
+ 20
+-30.36
+ 30
+0
+ 11
+-53.13
+ 21
+-13.36
+ 31
+0
+  0
+ARC
+  5
+A3A
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-50.13
+ 20
+-13.36
+ 30
+0
+ 40
+3
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+LINE
+  5
+A3B
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-50.13
+ 20
+-10.36
+ 30
+0
+ 11
+-39.13
+ 21
+-10.36
+ 31
+0
+  0
+ARC
+  5
+A3C
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbCircle
+ 10
+-39.13
+ 20
+-11.36
+ 30
+0
+ 40
+1
+100
+AcDbArc
+ 50
+-1.01778e-13
+ 51
+90
+  0
+LINE
+  5
+A3D
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-38.13
+ 20
+-11.36
+ 30
+0
+ 11
+-38.13
+ 21
+-12.86
+ 31
+0
+  0
+LINE
+  5
+A3E
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-38.13
+ 20
+-12.86
+ 30
+0
+ 11
+-33.13
+ 21
+-12.86
+ 31
+0
+  0
+LINE
+  5
+A3F
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-33.13
+ 20
+12.36
+ 30
+0
+ 11
+-33.13
+ 21
+-12.86
+ 31
+0
+  0
+LINE
+  5
+A40
 330
 A02
 100
@@ -1509,7 +2101,7 @@ AcDbLine
   0
 LINE
   5
-A29
+A41
 330
 A02
 100
@@ -1533,7 +2125,7 @@ AcDbLine
   0
 ARC
   5
-A2A
+A42
 330
 A02
 100
@@ -1559,7 +2151,7 @@ AcDbArc
   0
 LINE
   5
-A2B
+A43
 330
 A02
 100
@@ -1583,7 +2175,7 @@ AcDbLine
   0
 ARC
   5
-A2C
+A44
 330
 A02
 100
@@ -1609,7 +2201,7 @@ AcDbArc
   0
 LINE
   5
-A2D
+A45
 330
 A02
 100
@@ -1633,7 +2225,7 @@ AcDbLine
   0
 ARC
   5
-A2E
+A46
 330
 A02
 100
@@ -1659,7 +2251,7 @@ AcDbArc
   0
 LINE
   5
-A2F
+A47
 330
 A02
 100
@@ -1683,7 +2275,7 @@ AcDbLine
   0
 ARC
   5
-A30
+A48
 330
 A02
 100
@@ -1709,7 +2301,7 @@ AcDbArc
   0
 LINE
   5
-A31
+A49
 330
 A02
 100
@@ -1733,7 +2325,7 @@ AcDbLine
   0
 LINE
   5
-A32
+A4A
 330
 A02
 100
@@ -1757,7 +2349,7 @@ AcDbLine
   0
 LINE
   5
-A33
+A4B
 330
 A02
 100
@@ -1769,7 +2361,7 @@ AcDbLine
  10
 -33.13
  20
-19.359
+19.4074
  30
 0
  11
@@ -1781,7 +2373,7 @@ AcDbLine
   0
 ARC
   5
-A34
+A4C
 330
 A02
 100
@@ -1793,21 +2385,21 @@ AcDbCircle
  10
 -30.13
  20
-19.36
+19.3596
  30
 0
  40
-3
+3.00038
 100
 AcDbArc
  50
 90
  51
--179.98
+179.088
   0
 LINE
   5
-A35
+A4D
 330
 A02
 100
@@ -1831,7 +2423,7 @@ AcDbLine
   0
 LINE
   5
-A36
+A4E
 330
 A02
 100
@@ -1855,7 +2447,7 @@ AcDbLine
   0
 LINE
   5
-A37
+A4F
 330
 A02
 100
@@ -1879,7 +2471,7 @@ AcDbLine
   0
 LINE
   5
-A38
+A50
 330
 A02
 100
@@ -1903,7 +2495,7 @@ AcDbLine
   0
 CIRCLE
   5
-A39
+A51
 330
 A02
 100
@@ -1921,7 +2513,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3A
+A52
 330
 A02
 100
@@ -1939,7 +2531,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3B
+A53
 330
 A02
 100
@@ -1957,7 +2549,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3C
+A54
 330
 A02
 100
@@ -1975,7 +2567,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3D
+A55
 330
 A02
 100
@@ -1993,7 +2585,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3E
+A56
 330
 A02
 100
@@ -2011,7 +2603,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A3F
+A57
 330
 A02
 100
@@ -2029,7 +2621,7 @@ AcDbCircle
   0
 LINE
   5
-A40
+A58
 330
 A02
 100
@@ -2053,7 +2645,7 @@ AcDbLine
   0
 LINE
   5
-A41
+A59
 330
 A02
 100
@@ -2077,7 +2669,7 @@ AcDbLine
   0
 LINE
   5
-A42
+A5A
 330
 A02
 100
@@ -2101,7 +2693,7 @@ AcDbLine
   0
 LINE
   5
-A43
+A5B
 330
 A02
 100
@@ -2125,7 +2717,7 @@ AcDbLine
   0
 CIRCLE
   5
-A44
+A5C
 330
 A02
 100
@@ -2143,7 +2735,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A45
+A5D
 330
 A02
 100
@@ -2161,7 +2753,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A46
+A5E
 330
 A02
 100
@@ -2179,7 +2771,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A47
+A5F
 330
 A02
 100
@@ -2197,7 +2789,7 @@ AcDbCircle
   0
 LINE
   5
-A48
+A60
 330
 A02
 100
@@ -2221,7 +2813,7 @@ AcDbLine
   0
 LINE
   5
-A49
+A61
 330
 A02
 100
@@ -2245,7 +2837,7 @@ AcDbLine
   0
 LINE
   5
-A4A
+A62
 330
 A02
 100
@@ -2269,7 +2861,7 @@ AcDbLine
   0
 LINE
   5
-A4B
+A63
 330
 A02
 100
@@ -2293,7 +2885,7 @@ AcDbLine
   0
 LINE
   5
-A4C
+A64
 330
 A02
 100
@@ -2317,7 +2909,7 @@ AcDbLine
   0
 LINE
   5
-A4D
+A65
 330
 A02
 100
@@ -2341,7 +2933,7 @@ AcDbLine
   0
 LINE
   5
-A4E
+A66
 330
 A02
 100
@@ -2365,7 +2957,7 @@ AcDbLine
   0
 LINE
   5
-A4F
+A67
 330
 A02
 100
@@ -2389,7 +2981,7 @@ AcDbLine
   0
 CIRCLE
   5
-A50
+A68
 330
 A02
 100
@@ -2407,7 +2999,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A51
+A69
 330
 A02
 100
@@ -2425,7 +3017,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A52
+A6A
 330
 A02
 100
@@ -2443,7 +3035,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A53
+A6B
 330
 A02
 100
