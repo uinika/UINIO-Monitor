@@ -1,0 +1,102 @@
+(footprint "SMA_L4.3-W2.5-LS5.0-RD" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -3.207) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp 57e39840-44c6-4139-8d13-c9978cf34791)
+  )
+  (fp_text value "std:843852beeeb646dd9804a99e28c2f069" (at 0 -0.667) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp c15613a0-651d-45ac-99e5-b21aa6558104)
+  )
+  (fp_line (start -2.726 -1.401) (end 2.726 -1.401)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp 8dec876c-768b-4416-80c2-6ad0b38225b9))
+  (fp_line (start -2.726 1.401) (end 2.726 1.401)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp 83df5f43-16f8-40ff-a61a-8c07e6fe82b5))
+  (fp_line (start -0.886 -1.401) (end -0.886 1.401)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp d0f01b47-ef8a-4477-9562-3a04f605e809))
+  (fp_line (start 2.726 -1.401) (end 2.726 -1)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp 72c8ec31-9642-486c-a067-8d079c621e6d))
+  (fp_line (start 2.726 1.401) (end 2.726 1)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp 81b9d797-cadb-44fc-8895-ba08758131a3))
+  (fp_poly
+    (pts
+      (xy -2.65 -1.477)
+      (xy -2.65 -0.949)
+      (xy -3.107 -0.949)
+      (xy -3.107 -1.477)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 7586e9fc-8ac1-45eb-8f84-030208b6c18e))
+  (fp_poly
+    (pts
+      (xy -2.65 1.477)
+      (xy -2.65 0.949)
+      (xy -3.107 0.949)
+      (xy -3.107 1.477)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ddbbbb1a-56c1-4a39-a390-b3c0dd0b3262))
+  (fp_poly
+    (pts
+      (xy -2.451 0.099)
+      (xy -2.451 -0.099)
+      (xy -1.656 -0.099)
+      (xy -1.656 0.099)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp 27e32d64-a74d-43e7-984e-34f2e1dbf1d0))
+  (fp_poly
+    (pts
+      (xy 2.153 0.663)
+      (xy 2.153 -0.663)
+      (xy 1.954 -0.663)
+      (xy 1.954 0.663)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp b7841fd9-b801-4208-8c9f-b3da575d2661))
+  (fp_poly
+    (pts
+      (xy 2.451 0.099)
+      (xy 2.451 -0.099)
+      (xy 1.656 -0.099)
+      (xy 1.656 0.099)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp b24e65bf-22a0-4b58-9cad-2c2524ca2ddc))
+  (fp_circle (center -2.507 1.25) (end -2.477 1.25)
+    (stroke (width 0.06) (type solid)) (fill none) (layer "Eco2.User") (tstamp b906c24e-a108-43ec-aae0-ccf1cf879731))
+  (fp_poly
+    (pts
+      (xy -1.307 -0.725)
+      (xy -1.307 0.725)
+      (xy -2.507 0.725)
+      (xy -2.507 -0.725)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 00ad71c4-fb3f-462b-a36d-b8533a112a6b))
+  (fp_poly
+    (pts
+      (xy 1.307 0.725)
+      (xy 1.307 -0.725)
+      (xy 2.507 -0.725)
+      (xy 2.507 0.725)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 7cb44de0-67af-41f7-ad3a-a8208830f748))
+  (fp_line (start -2.15 -1.25) (end 2.15 -1.25)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 6fadbb3f-3b43-419c-ad4f-532a81047c5b))
+  (fp_line (start -2.15 1.25) (end -2.15 -1.25)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp c50922ae-93c6-496e-be68-9122f25c218a))
+  (fp_line (start 2.15 -1.25) (end 2.15 1.25)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 1189e1de-de1b-4774-ab6a-f9c2fd7f02b1))
+  (fp_line (start 2.15 1.25) (end -2.15 1.25)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 04df9708-d84d-44b7-9933-aed2364d00c7))
+  (pad "1" smd rect (at -2.1 0 180) (size 2 1.593) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6543dcbf-cbc4-4137-96c2-798659f67a81))
+  (pad "2" smd rect (at 2.1 0 180) (size 2 1.593) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7353a21d-3fcb-47f3-8f71-4cfaba9d1edd))
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/SMA_L4.3-W2.5-LS5.0-RD.wrl"
+    (offset (xyz -3.81 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
