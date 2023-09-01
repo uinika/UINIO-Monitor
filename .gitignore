@@ -13,3 +13,7 @@
 **/Libraries/**/*.License.*
 
 **/_autosave-**.kicad_sch
+
+~UINIO-Monitor.kicad_pcb.lck
+
+~UINIO-Monitor.kicad_sch.lck
