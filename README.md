@@ -25,9 +25,8 @@
 
 ## 参考技术文档
 
-[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-MCU-ESP32C3 开源项目提供有如下一系列技术参考资料：
+[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-Monitor 开源项目提供有如下一系列技术参考资料：
 
-1. [《UINIO-MCU-ESP32 核心板电路设计》](http://www.uinio.com/Project/UINIO-MCU-ESP32/)
-2. [《基于 UINIO-MCU-ESP32 的 Arduino 进阶教程》](http://www.uinio.com/Project/Arduino-ESP32/)
-3. [《运用 U8G2 与 TFT_eSPI 玩转 UINIO-Monitor 显示屏》](http://www.uinio.com/Project/UINIO-Monitor/)
-4. [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-Monitor.html)
+1. [《基于 UINIO-MCU-ESP32 的 Arduino 进阶教程》](http://www.uinio.com/Project/Arduino-ESP32/)
+2. [《运用 U8G2 与 TFT_eSPI 玩转 UINIO-Monitor 显示屏》](http://www.uinio.com/Project/UINIO-Monitor/)
+3. [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-Monitor.html)
