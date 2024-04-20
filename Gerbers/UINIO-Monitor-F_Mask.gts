@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
-%TF.CreationDate,2024-01-11T18:59:10+08:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11*%
+%TF.CreationDate,2024-04-20T19:25:38+08:00*%
 %TF.ProjectId,UINIO-Monitor,55494e49-4f2d-44d6-9f6e-69746f722e6b,Version 3.2.1*%
 %TF.SameCoordinates,PXbd63e30PY4088ff0*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.9) date 2024-01-11 18:59:10*
+G04 Created by KiCad (PCBNEW 7.0.11) date 2024-04-20 19:25:38*
 %MOMM*%
 %LPD*%
 G01*
@@ -70,8 +70,8 @@ X-71951320Y-6181320D03*
 %TD*%
 D12*
 %TO.C,R6*%
-X-25481320Y-33366320D03*
 X-25481320Y-35016320D03*
+X-25481320Y-33366320D03*
 %TD*%
 D13*
 %TO.C,J2*%
@@ -285,8 +285,8 @@ X-54671320Y-73746320D03*
 X-54671320Y-72096320D03*
 %TD*%
 %TO.C,R2*%
-X-31641320Y-33366320D03*
 X-31641320Y-35016320D03*
+X-31641320Y-33366320D03*
 %TD*%
 D13*
 %TO.C,J3*%
@@ -508,8 +508,8 @@ X-86311321Y-24891320D03*
 %TD*%
 D25*
 %TO.C,C1*%
-X-27241320Y-34966320D03*
 X-27241320Y-33416320D03*
+X-27241320Y-34966320D03*
 %TD*%
 D33*
 %TO.C,P5*%
