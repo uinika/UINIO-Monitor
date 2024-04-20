@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.11*%
-%TF.CreationDate,2024-04-20T19:25:38+08:00*%
+%TF.CreationDate,2024-04-20T20:36:00+08:00*%
 %TF.ProjectId,UINIO-Monitor,55494e49-4f2d-44d6-9f6e-69746f722e6b,Version 3.2.1*%
 %TF.SameCoordinates,PXbd63e30PY4088ff0*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.11) date 2024-04-20 19:25:38*
+G04 Created by KiCad (PCBNEW 7.0.11) date 2024-04-20 20:36:00*
 %MOMM*%
 %LPD*%
 G01*
