@@ -1,5 +1,5 @@
-### Footprint positions - created on Mon Apr 22 18:40:56 2024 ###
-### Printed by KiCad version 7.0.11
+### Footprint positions - created on 2024-05-01T02:45:47+0800 ###
+### Printed by KiCad version 8.0.2
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
@@ -29,9 +29,9 @@ FPC2      FPC-SMD_8P-0.5mm  FPC-SMD_8P-P0.5                     -35.2513   -22.3
 FPC3      FPC-SMD_4P-0.5mm  FPC-SMD_4P-P0.5                     -10.3213   -54.7413    0.0000  top
 FPC4      FPC-SMD_8P-0.5mm  FPC-SMD_8P-P0.5                     -77.9813    -9.0113    0.0000  top
 FPC7      FPC-SMD_8P-0.5mm  FPC-SMD_8P-P0.5                     -80.9963   -56.3098  180.0000  top
-HOLE**    Hole-2mm          Hole-2mm                             -6.0063   -47.2263    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                            -54.2613   -47.2263    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                            -65.7563    -9.0013    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                             -6.0063   -47.2263    0.0000  top
 J1        Conn_01x08_Pin    PinHeader_1x08_P2.54mm_Vertical     -61.8113   -54.9213    0.0000  top
 J2        Conn_01x08_Pin    PinHeader_1x08_P2.54mm_Vertical     -61.8113   -13.4813    0.0000  top
 J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      -6.5513   -51.1713  -90.0000  top
